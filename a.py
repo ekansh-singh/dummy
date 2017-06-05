@@ -1,2 +1,2 @@
 print "rebase - check"
-print "automation 5"
+print "automation 6"
